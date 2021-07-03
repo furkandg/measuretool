@@ -1,5 +1,3 @@
-# ulkeoyunum
-
 ## Project setup
 ```
 npm install
